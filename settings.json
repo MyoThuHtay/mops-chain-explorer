@@ -55,7 +55,7 @@
       "host": "localhost",
       "port": 6464,
       "username": "mopscoinrpc",
-      "password": "12W7wtoXeho1xxvy7XnGnBzL9LovZH5k3tKhCujHDPCe"
+      "password": "HVYQpwWw1CNsAicbcU6sqRZS5vQCfsxVH1EH8SNyt7s2"
     },
   
     // confirmations
@@ -95,10 +95,10 @@
   
     // ensure links on API page are valid
     "api": {
-      "blockindex": 154,
-      "blockhash": "998e4f0763e30af48276b9ab4d8d96a8653c07c28e244c5ff9b7a49803ea8eb2",
-      "txhash": "6f1e24d8a403f11430164919ce62cdf81cbc38ed72a06befabae72c6adbfe330",
-      "address": "MDneVyqaLA3ZxBZbCfSQtPXsCFGVeCrd8U"
+      "blockindex": 647,
+      "blockhash": "e8be39c37db219fadc2361bb97f9f56fa9884d0cddc093ef3e2a7bf875bdf32c",
+      "txhash": "482f4ffcb5048b0c723233a8be4c0967a115f59e08b9d8e14c6880376fc09f6c",
+      "address": "MQFaEicAjsrSHwQ91XrXvn4sbvje6YUoWJ"
     },
   
     // market settings
